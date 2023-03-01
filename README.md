@@ -6,7 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 All task it's ok
 
 ## My Task is complete
-I am happy 
 
 In the project directory, you can run:
 
